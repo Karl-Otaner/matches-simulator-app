@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import me.dio.simulator.databinding.ActivityMainBinding;
 
-class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
 
@@ -17,5 +17,6 @@ class MainActivity extends AppCompatActivity {
 
         binding = ActivityMainBinding.inflate((getLayoutInflater()));
         setContentView(binding.getRoot());
+
     }
 }
