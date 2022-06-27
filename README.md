@@ -8,3 +8,6 @@ realizadas durante os seguintes conteúdos/videos:
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/Karl-Otaner/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 3.  Java e Kotlin Juntos!? Contruindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Karl-Otaner/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+
+4.  Explorando o Firebase Para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resiliente](https://github.com/Karl-Otaner/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
